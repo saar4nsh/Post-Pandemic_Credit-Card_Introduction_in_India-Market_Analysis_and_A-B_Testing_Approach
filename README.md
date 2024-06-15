@@ -41,8 +41,8 @@ Make sure you have the following installed on your system:
 First, clone the repository to your local machine using git:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/saar4nsh/Post-Pandemic_Credit-Card_Introduction_in_India-Market_Analysis_and_A-B_Testing_Approach.git
+cd Post-Pandemic_Credit-Card_Introduction_in_India-Market_Analysis_and_A-B_Testing_Approach
 ```
 
 **Step 2: Installations**
