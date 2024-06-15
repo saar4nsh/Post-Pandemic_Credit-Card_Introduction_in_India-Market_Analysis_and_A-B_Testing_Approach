@@ -1,7 +1,10 @@
 # Post-Pandemic Credit Card Introduction in India: Market Analysis and A/B Testing Approach
 
 This project aims to launch a credit card in post-COVID India for a hypothetical bank. 
-Phase 1 involved cleaning and analyzing data to identify target customer segments..
+Phase 1 involved cleaning and analyzing data to identify target customer segments and in 
+Phase 2 we used A/B Testing approach on two groups (test group and control group) to test 
+the credibility of our new credit card.
+
 
 ## Table of Contents
 
