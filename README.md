@@ -5,14 +5,14 @@ Phase 1 involved cleaning and analyzing data to identify target customer segment
 
 ## Table of Contents
 
-##1. Introduction
+**1. Introduction**
 
 The COVID-19 pandemic has significantly altered consumer behavior and financial priorities worldwide, with India being no exception. 
 As the country emerges from the pandemic, financial institutions face the challenge of adapting to these changes and seizing new 
 opportunities. This project explores the strategic launch of a credit card by a hypothetical bank in post-COVID India, leveraging 
 data-driven insights and rigorous testing to ensure market success.
 
-##2. Project Structure
+**2. Project Structure**
 
 The project is divided into two phases. Phase 1 focuses on understanding the target market through meticulous data cleaning, 
 pre-processing, and visualization. By analyzing demographic and financial trends, we aim to identify the most promising customer 
@@ -24,11 +24,11 @@ By comparing the responses of two distinct groups, we seek to determine the effe
 decisions. The results of these tests provide critical insights into consumer behavior and preferences, enabling us to optimize the 
 credit card offering.
 
-##3. Usage
+**3. Usage**
 
 Follow these steps to set up your environment and run the Jupyter Notebook for this project.
 
-### Prerequisites
+**Prerequisites**
 
 Make sure you have the following installed on your system:
 
@@ -36,7 +36,7 @@ Make sure you have the following installed on your system:
 - `pip` (Python package installer)
 - Jupyter Notebook
 
-### Step 1: Clone the Repository
+**Step 1: Clone the Repository**
 
 First, clone the repository to your local machine using `git`:
 
@@ -44,12 +44,12 @@ First, clone the repository to your local machine using `git`:
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
 
-### Step 2: Installations
+**Step 2: Installations**
 
 You will need to install all these packages in one go using the following pip command:
 pip install -r requirements.txt
 
-### Step 3: Start Jupyter Notebook
+**Step 3: Start Jupyter Notebook**
 
 Launch Jupyter Notebook from the command line:
 
@@ -57,7 +57,7 @@ jupyter notebook
 
 This will open the Jupyter Notebook interface in your default web browser.
 
-### Step 4: Open and Run the Notebook
+**Step 4: Open and Run the Notebook**
 
 In the Jupyter Notebook interface:
 
@@ -74,16 +74,16 @@ Example Notebook Cell Execution
 4. Modeling: Run the cells that build, train, and evaluate machine learning models.
 5. Results: Finally, review the cells that present the results and conclusions.
 
-4. Data
+**4. Data**
 The data used in this project comes from the Kaggle Telco Customer Churn dataset. It includes information about customer demographics, 
 account information, and services used.
 
-5. Results
+**5. Results**
 At the end of the project we were able to find the right target market for out new credit card based on the analysis and data visualisations of datasets we had and 
 successfully conducted A/B Testing on control and target groups , and we rejected our null hypothesis that the new credit card does not
 increase average transaction amount with a confidence level of 95%.
 
-6. Contact
+**6. Contact**
 
 Name:Saaransh Sharma
 GitHub:saar4nsh
