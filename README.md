@@ -63,7 +63,7 @@ This will open the Jupyter Notebook interface in your default web browser.
 In the Jupyter Notebook interface:
 
 1. Navigate to the directory where you cloned the repository.
-2. Open the main notebook file (e.g., analysis.ipynb).
+2. Open the main notebook file (e.g., phase_1.ipynb).
 3. Run the notebook cells in order. You can do this by clicking on each cell and pressing Shift + Enter or by using the "Run" button 
 in the toolbar.
 
