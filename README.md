@@ -5,14 +5,14 @@ Phase 1 involved cleaning and analyzing data to identify target customer segment
 
 ## Table of Contents
 
-1. Introduction
+##1. Introduction
 
 The COVID-19 pandemic has significantly altered consumer behavior and financial priorities worldwide, with India being no exception. 
 As the country emerges from the pandemic, financial institutions face the challenge of adapting to these changes and seizing new 
 opportunities. This project explores the strategic launch of a credit card by a hypothetical bank in post-COVID India, leveraging 
 data-driven insights and rigorous testing to ensure market success.
 
-2. Project Structure
+##2. Project Structure
 
 The project is divided into two phases. Phase 1 focuses on understanding the target market through meticulous data cleaning, 
 pre-processing, and visualization. By analyzing demographic and financial trends, we aim to identify the most promising customer 
@@ -24,7 +24,7 @@ By comparing the responses of two distinct groups, we seek to determine the effe
 decisions. The results of these tests provide critical insights into consumer behavior and preferences, enabling us to optimize the 
 credit card offering.
 
-3. Usage
+##3. Usage
 
 Follow these steps to set up your environment and run the Jupyter Notebook for this project.
 
