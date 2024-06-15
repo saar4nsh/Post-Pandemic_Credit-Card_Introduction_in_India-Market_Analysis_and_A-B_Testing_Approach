@@ -38,11 +38,12 @@ Make sure you have the following installed on your system:
 
 **Step 1: Clone the Repository**
 
-First, clone the repository to your local machine using `git`:
+First, clone the repository to your local machine using git:
 
-```sh
+```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
+```
 
 **Step 2: Installations**
 
