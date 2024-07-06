@@ -89,9 +89,8 @@ increase average transaction amount with a confidence level of 95%.
 
 **6. Contact**
 
-Name:Saaransh Sharma
-
-GitHub:saar4nsh
+* Name:Saaransh Sharma
+* GitHub:saar4nsh
 
 
 
